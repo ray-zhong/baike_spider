@@ -1,0 +1,5 @@
+{
+  "python.linting.pylintEnabled": false,
+  "python.pythonPath": "d:/project/baike_spider/ENV/scripts/python.exe",
+  "editor.tabSize": 2
+}
